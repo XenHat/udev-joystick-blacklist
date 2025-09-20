@@ -283,6 +283,7 @@ DEVICES = [
 
     ('3434', '0109'),  # Keychron Q1
     ('3434', '0950'),  # Keychron V5 Max System Control
+    ('3434', '0e20'),  # Keychron K2 HE
 ]
 
 
