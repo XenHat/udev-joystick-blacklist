@@ -285,6 +285,7 @@ DEVICES = [
     ('3434', '0433'),  # Keychron C3 Pro
     ('3434', '0950'),  # Keychron V5 Max System Control
     ('3434', '0e20'),  # Keychron K2 HE
+    ('3434', 'd030'),  # Keychron Link
 ]
 
 
